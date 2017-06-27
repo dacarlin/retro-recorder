@@ -1,7 +1,5 @@
-![hero.img]
-
-Have you ever forgotten to press the "Record" button, and you 
-realize after you have played the song? 
+*Have you ever forgotten to press the "Record" button, and you 
+realize after you have played the song?*
 
 The retro recorder is a digital "tape recorder"
 that also happens to be able to time travel. 
